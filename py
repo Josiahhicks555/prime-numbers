@@ -7,7 +7,7 @@ false = False
 if YourNumber > 1:
     for x in range(2, YourNumber):
         if (YourNumber % x) == 0:
-            Run = True
+            answer = True
 
 
 if false:
