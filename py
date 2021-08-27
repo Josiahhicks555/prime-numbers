@@ -2,11 +2,9 @@
 #also found out % can be used as a value for a string
 
 YourNumber = 0
-
 false = False
 
 if YourNumber > 1:
-
     for x in range(2, YourNumber):
         if (YourNumber % x) == 0:
             Run = True
